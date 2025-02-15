@@ -1,6 +1,6 @@
 # Fraud Detection in Rent Payments
 
-The project aims to detect fraudulent transactions in rental payments using machine learning techniques. It involves analyzing historical tenant behavior and transaction data to identify patterns that distinguish fraudulent activities from legitimate ones.
+The project aims to detect fraudulent transactions in rental payments using machine learning techniques. It involves analyzing transaction data to identify patterns that distinguish fraudulent activities from legitimate ones.
 
 
 # 🔹 Key Aspects of the Task:
